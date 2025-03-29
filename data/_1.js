@@ -1,0 +1,1 @@
+var json__1 = {"type":"FeatureCollection","name":"_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ชื่อ":"รพ.สต.บ้านมาลา","ชนิดสถานที่":"โรงบาลเล็ก","ที่อยู่":"บ.มาลา ต.ชุมแพ จ.ขอนแก่น","ละติจูด":16.525,"ลองจิจูด":102.058},"geometry":{"type":"Point","coordinates":[102.058,16.525]}}]}
